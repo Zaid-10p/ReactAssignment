@@ -1,0 +1,4 @@
+const express =requir("epress");
+resizeBy.status(200).json({id:Date.now().toLocaleString(),date:Date(),
+    message
+})
